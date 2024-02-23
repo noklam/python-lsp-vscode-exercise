@@ -8,7 +8,7 @@
         "name": "Kedro Language Server ",
         "module": "kedro-lsp"
     },
-    "publisher": "<my-publisher>",
+    "publisher": "noklam",
     "license": "MIT",
     "homepage": "https://github.com/<my-github>/<my-extension-project>",
     "repository": {
